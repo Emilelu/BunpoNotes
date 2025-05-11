@@ -1,7 +1,7 @@
 [book]
 title = "Bunpō Notes"
 authors = ["Boyin Chen"]
-language = "zh-cn"
+language = "zh-Hans"
 multilingual = false
 src = "src"
 
@@ -9,4 +9,4 @@ src = "src"
 create-missing = true
 
 [output.html.search]
-enable = false
+enable = true
